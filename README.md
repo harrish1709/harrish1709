@@ -13,14 +13,6 @@
 | **Generative AI & LLMs** | LangChain, LangGraph, GPT-4o, Meta-LLaMA-3, Gemini, Qdrant, RAG Pipelines |
 | **MLOps & Engineering** | Docker, Linux/VPS, Git, GitHub, PM2, Flask, FastAPI, n8n |
 
-### 💼 Experience
-
-**AI Graduate Trainee** @ Bannari Amman Institute of Technology *(June 2025 – Present)*
-- AI-Powered Evaluation Engine, Multilingual Dubbing Pipeline, Audio Signal Processing, AI Medicare Governance System
-
-**Data Analyst Intern** @ Access Million Marketing Services *(Feb 2025 – Aug 2025)*
-- ML Integration, ETL Pipelines, Statistical Modeling & Visualization
-
 ### 📌 Projects
 
 - [**Intelligent Multi-Modal Customer Support Agent**](https://exalto.tutomart-testing.com) — Multi-agent RAG system with Hybrid Search
