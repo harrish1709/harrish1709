@@ -28,6 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/harrishjaypaul-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/harrishjaypaul)
 [![GitHub](https://img.shields.io/badge/-github.com/harrish1709-181717?style=flat&logo=github)](https://github.com/harrish1709)
+[![Portfolio](https://img.shields.io/badge/-portfolio.build--space.me-FF7139?style=flat&logo=firefox)](https://portfolio.build-space.me)
 [![Email](https://img.shields.io/badge/-harrish1709@gmail.com-EA4335?style=flat&logo=gmail)](mailto:harrish1709@gmail.com)
 
 ---
